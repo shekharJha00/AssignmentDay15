@@ -13,6 +13,7 @@ public class HashTableMain {
                 HashTable hashTable = new HashTable();
                 hashTable.countWords(str);
                 hashTable.countWords(str1);
+                hashTable.remove( "avoidable");
 
             }
 
